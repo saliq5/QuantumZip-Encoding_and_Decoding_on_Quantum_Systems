@@ -8,7 +8,7 @@ parallel and pyramidal QHT circuits for more efficient sampling of the output st
 To address the C2Q
 data encoding challenge, i utilised the Flexible Representation of
 Quantum Images (FRQI) encoding scheme. This approach provides an efficient and
-robust method for encoding classical data into quantum states, optimizing the delicate balance between fidelity and circuit complexity. By leveraging FRQI, I achieve
+robust method for encoding classical data into quantum states, optimizing the delicate balance between fidelity and circuit complexity. By leveraging FRQI, I achieve
 the design of encoding circuits that are optimized for decoherence while remaining
 compatible with the constraints of NISQ devices.
 In order to address the challenge of quantum-to-classical (Q2C) data decoding, we
